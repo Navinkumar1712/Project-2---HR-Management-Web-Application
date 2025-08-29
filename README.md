@@ -10,22 +10,23 @@ Key modules tested include Login, Menu Accessibility, User Management, My Info, 
 Automation simulates real-world usage such as form interactions, navigation, and authentication checks.
 Both positive and negative test scenarios are covered.
 
+
 Tools and Technologies
 
-Python
+  * Python
 
-Selenium WebDriver
+  * Selenium WebDriver
 
-Pytest Framework
+  * Pytest Framework
 
-Page Object Model (POM)
+  * Page Object Model (POM)
 
-Data Driven Testing (Excel with OpenPyXL)
+  * Data Driven Testing (Excel with OpenPyXL)
 
-Assertions and Validations
+  * Assertions and Validations
 
-OOPS Concepts
+  * OOPS Concepts
 
-Logging and Reporting
+  * Logging and Reporting
 
-Screenshot Capturing
+  * Screenshot Capturing
