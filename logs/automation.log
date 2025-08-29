@@ -1,0 +1,82 @@
+08/29/2025 04:43:01 PM: INFO: ****** Test Case 1 : Verifying Login - Data Driven Login Started ******
+08/29/2025 04:43:01 PM: INFO: ****** Login Page Loaded Successfully ******
+08/29/2025 04:43:03 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:43:05 PM: INFO: ****** Test Login Successful ******
+08/29/2025 04:43:07 PM: INFO: ****** Logging Out For Valid User ******
+08/29/2025 04:43:10 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:43:12 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:43:12 PM: INFO: ****** Test Case 1 : Verifying Login - Data Driven Login Completed ******
+08/29/2025 04:43:29 PM: INFO: ****** Test Case - 2 : Verify that the Home URL is accessible - Started ******
+08/29/2025 04:43:29 PM: INFO: ****** Orange HRM Logo Displayed, URL loaded successfully ******
+08/29/2025 04:43:29 PM: INFO: ****** Test Case - 2 : Verify that the Home URL is accessible - Completed ******
+08/29/2025 04:43:39 PM: INFO: ****** Test Case - 3 : Validate - Presence of Login Fields Started ******
+08/29/2025 04:43:40 PM: INFO: ****** Presence of Login fields validated *****
+08/29/2025 04:43:40 PM: INFO: ****** Test case - 3 : Validate - Presence of Login Fields Completed ******
+08/29/2025 04:43:51 PM: INFO: ****** Test Case : Login Functionality Test Started ******
+08/29/2025 04:43:51 PM: INFO: ****** Verifying Login with Valid credentials ******
+08/29/2025 04:43:52 PM: INFO: ****** Login Page Loaded Successfully ******
+08/29/2025 04:43:55 PM: INFO: ****** Test Case : Login Functionality Test Completed ******
+08/29/2025 04:44:04 PM: INFO: ****** Main Menu Items Visibility & Clickable Test Started ******
+08/29/2025 04:44:08 PM: INFO: ****** Dashboard Loaded Successfully ******
+08/29/2025 04:44:08 PM: INFO: ****** Main Menu Items Visible ******
+08/29/2025 04:44:20 PM: INFO: ****** Main Menu Items Clickable ******
+08/29/2025 04:44:20 PM: INFO: ****** Main Menu Items Visibility & Clickable Test Completed ******
+2025-08-29 16:44:47,072 - test_create_new_user_and_validate_login: PASSED - User created and logged in: testuserzeoa
+2025-08-29 16:45:13,119 - test_validate_new_user_in_admin_list: PASSED - User Management accessed (Demo limitation)
+08/29/2025 04:45:26 PM: INFO: ****** Test Case - 7: Forgot Password Functionality Test Started ******
+08/29/2025 04:45:29 PM: INFO: ****** Clicked on Reset Password Button *****
+08/29/2025 04:45:31 PM: INFO: ***** Reset Password Success Message Displayed ******
+08/29/2025 04:45:31 PM: INFO: ****** Test Case - 7: Forgot Password Functionality Test Completed ******
+08/29/2025 04:45:43 PM: INFO: ****** Case - 8: My Info Sub Menu Items Visibility & Clickable Test Started ******
+08/29/2025 04:45:46 PM: INFO: ****** Dashboard Loaded Successfully ******
+08/29/2025 04:45:48 PM: INFO: ****** My Info Menu Items Visible ******
+08/29/2025 04:46:02 PM: INFO: ****** My Info Menu Items Clickable ******
+08/29/2025 04:46:02 PM: INFO: ****** Case - 8: My Info Sub Menu Items Visibility & Clickable Test Completed ******
+08/29/2025 04:46:12 PM: INFO: ****** Test Case - 9 : Leave Management Test Started ******
+08/29/2025 04:46:15 PM: INFO: ****** Logged in successfully ******
+08/29/2025 04:46:35 PM: INFO: ****** Assign Leave Module Loaded Successfully ******
+08/29/2025 04:47:23 PM: INFO: Submit Claim Page Loaded
+08/29/2025 04:47:34 PM: INFO: Claim Submitted Successfully
+08/29/2025 04:47:34 PM: INFO: Submit Claim Test Completed
+08/29/2025 04:47:49 PM: INFO: ****** Test Case 1 : Verifying Login - Data Driven Login Started ******
+08/29/2025 04:47:51 PM: INFO: ****** Login Page Loaded Successfully ******
+08/29/2025 04:47:53 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:47:55 PM: INFO: ****** Test Login Successful ******
+08/29/2025 04:47:59 PM: INFO: ****** Logging Out For Valid User ******
+08/29/2025 04:48:01 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:48:03 PM: INFO: ****** Error Message Displayed for Invalid Login Credentials ******
+08/29/2025 04:48:03 PM: INFO: ****** Test Case 1 : Verifying Login - Data Driven Login Completed ******
+08/29/2025 04:48:13 PM: INFO: ****** Test Case - 2 : Verify that the Home URL is accessible - Started ******
+08/29/2025 04:48:13 PM: INFO: ****** Orange HRM Logo Displayed, URL loaded successfully ******
+08/29/2025 04:48:13 PM: INFO: ****** Test Case - 2 : Verify that the Home URL is accessible - Completed ******
+08/29/2025 04:48:24 PM: INFO: ****** Test Case - 3 : Validate - Presence of Login Fields Started ******
+08/29/2025 04:48:25 PM: INFO: ****** Presence of Login fields validated *****
+08/29/2025 04:48:25 PM: INFO: ****** Test case - 3 : Validate - Presence of Login Fields Completed ******
+08/29/2025 04:48:35 PM: INFO: ****** Test Case : Login Functionality Test Started ******
+08/29/2025 04:48:35 PM: INFO: ****** Verifying Login with Valid credentials ******
+08/29/2025 04:48:36 PM: INFO: ****** Login Page Loaded Successfully ******
+08/29/2025 04:48:39 PM: INFO: ****** Test Case : Login Functionality Test Completed ******
+08/29/2025 04:48:49 PM: INFO: ****** Main Menu Items Visibility & Clickable Test Started ******
+08/29/2025 04:48:52 PM: INFO: ****** Dashboard Loaded Successfully ******
+08/29/2025 04:48:53 PM: INFO: ****** Main Menu Items Visible ******
+08/29/2025 04:49:05 PM: INFO: ****** Main Menu Items Clickable ******
+08/29/2025 04:49:05 PM: INFO: ****** Main Menu Items Visibility & Clickable Test Completed ******
+2025-08-29 16:49:42,143 - test_create_new_user_and_validate_login: PASSED - User created and logged in: testuserhs97
+08/29/2025 04:49:42 PM: INFO: test_create_new_user_and_validate_login: PASSED - User created and logged in: testuserhs97
+2025-08-29 16:50:10,564 - test_validate_new_user_in_admin_list: PASSED - User Management accessed (Demo limitation)
+08/29/2025 04:50:10 PM: INFO: test_validate_new_user_in_admin_list: PASSED - User Management accessed (Demo limitation)
+08/29/2025 04:50:27 PM: INFO: ****** Test Case - 7: Forgot Password Functionality Test Started ******
+08/29/2025 04:50:30 PM: INFO: ****** Clicked on Reset Password Button *****
+08/29/2025 04:50:32 PM: INFO: ***** Reset Password Success Message Displayed ******
+08/29/2025 04:50:32 PM: INFO: ****** Test Case - 7: Forgot Password Functionality Test Completed ******
+08/29/2025 04:50:42 PM: INFO: ****** Case - 8: My Info Sub Menu Items Visibility & Clickable Test Started ******
+08/29/2025 04:50:46 PM: INFO: ****** Dashboard Loaded Successfully ******
+08/29/2025 04:50:48 PM: INFO: ****** My Info Menu Items Visible ******
+08/29/2025 04:51:02 PM: INFO: ****** My Info Menu Items Clickable ******
+08/29/2025 04:51:02 PM: INFO: ****** Case - 8: My Info Sub Menu Items Visibility & Clickable Test Completed ******
+08/29/2025 04:51:14 PM: INFO: ****** Test Case - 9 : Leave Management Test Started ******
+08/29/2025 04:51:16 PM: INFO: ****** Logged in successfully ******
+08/29/2025 04:51:35 PM: INFO: ****** Assign Leave Module Loaded Successfully ******
+08/29/2025 04:52:24 PM: INFO: Submit Claim Page Loaded
+08/29/2025 04:52:35 PM: INFO: Claim Submitted Successfully
+08/29/2025 04:52:35 PM: INFO: Submit Claim Test Completed
